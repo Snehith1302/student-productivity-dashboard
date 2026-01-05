@@ -16,4 +16,4 @@ A responsive web application built using HTML, CSS, and JavaScript.
 - JavaScript (DOM, LocalStorage)
 
 ## Live Demo
-Enable GitHub Pages
+ https://snehith1302.github.io/student-productivity-dashboard/
